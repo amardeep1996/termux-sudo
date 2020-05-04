@@ -1,0 +1,1 @@
+#!/data/data/com.termux/files/bin/zsh echo Setting Correct Permisssions; echo All files will be now available; su -c chmod -R 755 /data/data/com.termux/files; echo Thank you for using; echo brought to you; echo by AGNI DATTA;
